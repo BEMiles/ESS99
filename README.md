@@ -1,3 +1,3 @@
 ESS99
 =====
-sessionC
+SNR.py calculates the Signal to Noise Ratio of an asteroid as seen from Arecibo Observatory or Goldstone. I had to learn python this summer
