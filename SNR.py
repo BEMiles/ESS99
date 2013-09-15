@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
-#Brittany E. Miles bemiles@ucla.edu
+#Brittany E. Miles bemiles@ucla.edu 2013
+
+#This program is the way it is and if you choose to do anything with this
+#code outside of looking at it here I 'm not responsible for what happens.
 
 usage= '''
         Usage: SNR.py rtt diam [-p pspin] [-d dec] [-a alb] [-h abmg]
